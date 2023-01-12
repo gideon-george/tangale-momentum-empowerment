@@ -1,0 +1,49 @@
+Arguments: 
+  /snap/node/7065/bin/node /snap/node/7065/bin/yarn.js
+
+PATH: 
+  /home/gideon/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.13.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+
+npm manifest: 
+  {
+    "name": "talent-vue",
+    "version": "0.0.0",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "aos": "^3.0.0-beta.6",
+      "swiper": "^8.3.2",
+      "vue": "^3.2.25",
+      "vue-router": "^4.0.12"
+    },
+    "devDependencies": {
+      "@tailwindcss/forms": "^0.5.2",
+      "@vitejs/plugin-vue": "^3.0.0",
+      "autoprefixer": "^10.4.2",
+      "postcss": "^8.4.5",
+      "tailwindcss": "^3.0.11",
+      "vite": "^3.0.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
