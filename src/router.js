@@ -22,16 +22,8 @@ const router = createRouter({
       component: Home
     },
     {
-      path: '/signin',
-      component: SignIn
-    },
-    {
       path: '/proposal-call',
       component: Proposal
-    },    
-    {
-      path: '/reset-password',
-      component: ResetPassword
     }
   ]
 })
