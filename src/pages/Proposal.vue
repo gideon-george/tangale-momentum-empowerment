@@ -1,62 +1,78 @@
 <template>
-    <div class="bg-gray-300 min-h-screen">
-      <div class="container mx-auto py-12">
-        <div class="text-center">
-          <h1 class="text-3xl font-bold mb-4">Tangale Momentum for Empowerment</h1>
-          <p class="text-lg text-gray-700 mb-8">
-            TME is a private sector-led philanthropic partnership established in 2019 to empower entrepreneurs towards accelerating Tangale’s development. Our objective is to facilitate the empowerment of men and women in Tangale land, accelerate economic growth through business and job creation, drive poverty reduction and create a commonwealth fund for the Tangale nation.
-          </p>
-          <div class="flex flex-wrap">
-            <div class="w-1/2 mx-auto mb-4">
-              <p class="text-base font-medium text-center mb-2">Values of Tangale Momentum for Empowerment</p>
-              <ul class="list-disc">
-                <li>Integrity</li>
-                <li>Accountability</li>
-                <li>Community based</li>
-                <li>Growth Mindset</li>
-                <li>Honesty</li>
-              </ul>
+  <main class="flex">
+
+    <!-- Content -->
+    <div class="min-h-screen w-full lg:w-1/2">
+
+      <div class="h-full">
+
+        <div class="h-full w-full max-w-md px-6 mx-auto flex flex-col after:mt-auto after:flex-1">
+
+          <!-- Site header -->
+          <header class="flex-1 flex mb-auto">
+            <div class="flex items-center justify-between h-16 md:h-20">
+              <!-- Logo -->
+              <router-link class="block group" to="/" aria-label="Cruip">
+                <svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+                  <path class="fill-blue-600 group-hover:fill-blue-500 transform duration-150 ease-in-out" d="M12 6v24C5.373 30 0 24.627 0 18S5.373 6 12 6Z" />
+                  <path class="fill-sky-400 group-hover:fill-sky-300 transform duration-150 ease-in-out" d="M10.807 6.059A10.003 10.003 0 0 1 20 0c5.523 0 10 4.477 10 10 0 4.123-2.496 7.664-6.059 9.193.04-.392.059-.79.059-1.193 0-6.627-5.373-12-12-12-.403 0-.8.02-1.193.059Z" />
+                </svg>
+              </router-link>
             </div>
-            <div class="w-1/2 mx-auto mb-4">
-              <p class="text-base font-medium text-center mb-2">Pillars of the Tangale Emancipation Project</p>
-              <ul class="list-disc">
-                <li>Mentoring and monitoring businesses</li>
-                <li>Business Management Training</li>
-                <li>Knowledge Resources – an online platform to access training resources</li>
-                <li>Quarterly Business Meetings of beneficiary entrepreneurs</li>
-                <li>Annual TME Entrepreneurship Forum – Business showcase to Tangale stakeholders</li>
-                <li>Loan/ Seed Capital Funding</li>
-                <li>TME Entrepreneurship Programme Alumni Network</li>
-                <li>Loan recovery and accountability</li>
-                <li>Tangale Commonwealth Fund – Medical and traditional institution funds</li>
-              </ul>
+          </header>
+
+          <div class="flex-1 py-8">
+
+            <div class="mb-10 text-center">
+              <h1 class="h2 font-cabinet-grotesk">Application & Submission of Proposal</h1>
             </div>
-          </div>
-          <div class="bg-white py-4 px-6 rounded-lg">
-            <h2 class="text-lg font-medium mb-4">Eligibility Criteria:</h2>
-            <ul class="list-disc">
-              <li>Applicants MUST be Tangale by tribe</li>
-              <li>Business should be located/ operated in Billiri LGA</li>
-              <li>Applicants must be 18 years of age and above</li>
-              <li>Open to applicants with a scalable business idea and a business that has been operational for over 6 months and above.</li>
-              <li>Business ideas must be for-profit and must be the original work of those submitting.</li>
-              <li>Current staff or family members of the TME think tank are not eligible to apply for the Entrepreneurship Programme, either individually or as part of a team in this pilot scheme.</li>
-            <li>Applications which contain illegal or unethical Businesses or Business Ideas will not be considered</li>
-            <li>Application must focus on ONE business only. We advise choosing your best, most feasible/innovative business idea.</li>
-            <li>There will be 2 levels of selection. In level 1, businesses (business owners) will be shortlisted based on the eligibility criteria. The selected businesses (business owners) will undergo business management training where they will be equipped with the mechanics of business, and after that, all trainees will move to the final stage (Pitching).</li>
-            <li>To select the most promising entrepreneurs and to ensure that those selected have fully grasped the training, and as part of the final stage of the selection, entrepreneurs will be required to participate in a pitching competition where they will have the opportunity to defend their business ideas to a panel of judges.</li>
-          </ul>
-          <h2 class="text-lg font-medium mb-4 mt-6">TME Programme Application Process</h2>
-          <!-- Add the application process details here -->
-        </div>
-        <div class="text-center mt-8">
-          <button class="bg-green-500 text-white py-2 px-4 rounded-lg hover:bg-green-600">Apply Now</button>
-        </div>
-      </div>
-    </div>
-  </div>
-</template>
+<h2 class="font-bold text-center">Begin Process in 3 easy steps below: </h2>
+            <div class="text-xl mt-15 text-center font-cabinet-grotesk text-gray-900 mb-4">
+  <ul class="text-center mt-15 font-semibold">
+  <li>Take Survey</li>
+  <li>Download Advertisement</li>
+  <li>Apply and Submit proposal</li>
+</ul></div>
+
+            <!-- Form -->
+            <div class="flex flex-col md:flex-row justify-center items-center">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1H7JRKl-x435tgoeAGA9EyLDRc3AM8fax-Q20ur1vSBh0UA/viewform?usp=sf_link" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-full md:mr-8 md:mb-4 text-center">
+      Take Survey
+    </a>
   
+     <a href="https://drive.google.com/file/d/1K-sxOikScsgAYmaIaVU_Nm4G0MDo19Pw/view?usp=sharing" class="bg-green-500 hover:bg-green-700 text-white font-bold py-4 px-8 rounded-full md:mr-8 md:mb-4 text-center"    @click="trackDownload">  Download Advertisement (PDF)</a>
+
+    
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf9ptFyyPT4Zgo-EVOAZJxvSUwp_TwycU4X0oqQEl24-t_OQ/viewform?usp=sf_link" class="bg-red-500 hover:bg-red-700 text-white font-bold py-4 px-8 rounded-full text-center">
+      Apply and Submit Proposal
+    </a>
+  </div>
+          </div>
+          <div class="text-center">
+    <a href="/" class="text-blue-900 hover:underline">Go Back to Home Page</a>
+  </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Right side -->
+    <div class="fixed right-0 top-0 bottom-0 hidden lg:block lg:w-1/2 overflow-hidden" aria-hidden="true">
+
+      <!-- Bg -->
+      <div class="absolute inset-0 bg-blue-600 pointer-events-none -z-10">
+
+      <!-- Illustration -->
+      <img src="../images/explainer.jpg" alt="Explainer">
+      <div class="text-center relative my-50" > <h2> Applications and Proposal Submission is From:</h2>
+     <p> 16th January, 2023 - 28th February, 2023</p></div>
+    
+    </div>
+</div>
+  </main>
+</template>
+
 <script>
 export default {
   name: 'Proposal',
