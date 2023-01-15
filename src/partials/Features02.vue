@@ -5,7 +5,7 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-          <h2 class="h2 font-cabinet-grotesk">Unleash your potential and empower your community with TME</h2>
+          <h2 class="h2 font-cabinet-grotesk">Unleash your potential and empower Tangale community with TME</h2>
         </div>
 
         <div>
@@ -262,7 +262,7 @@ Annual TME Entrepreneurship Forum: We organize a yearly event to showcase the bu
 
             <!-- Image -->
             <div class="md:w-5/12 lg:w-1/2" data-aos="fade-up" data-aos-delay="100">
-              <img class="mx-auto md:max-w-none" src="../images/features-01.png" width="540" height="405" alt="Features" />
+              <img class="mx-auto md:max-w-none" src="../images/hill2.jpg" width="540" height="405" alt="Features" />
             </div>
 
           </div>

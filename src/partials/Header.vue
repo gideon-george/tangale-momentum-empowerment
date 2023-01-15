@@ -4,13 +4,14 @@
       <div class="flex items-center justify-between h-16 md:h-20">
 
         <!-- Site branding -->
-        <div class="shrink-0 mr-4 mt-40 border-collapse ">
+        <div class="shrink-0 mr-4">
           <!-- Logo -->
-          <router-link class="block group" mt-10 to="/" aria-label="Cruip">
-            <img src="../images/cropped.jpg" width="150" height="150" alt="Logo" >
+          <router-link class="block group" to="/" aria-label="Cruip">
+            <img src="../images/cropped.jpg" width="60" height="60" alt="Logo" class="rounded-full" >
           </router-link>
         </div>
 
+  
         <!-- Desktop navigation -->
         <nav class="flex grow">
 
