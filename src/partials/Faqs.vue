@@ -62,7 +62,7 @@
                   </ul>
                   <h5 class="text-l font-cabinet-grotesk font-bold">Apply Now!</h5>
                   <p class="text-gray-500">
-                   Ready to take the next step and apply for our Entrepreneurship Program? Our online application form is opened from 15th January, 2023 to 28th February, 2023. Apply today and get a chance to access the loan/seed capital and mentorship you need to take your business to the next level.</p>
+                   Ready to take the next step and apply for our Entrepreneurship Program? Our online application form is opened from 16th January, 2023 to 28th February, 2023. Apply today and get a chance to access the loan/seed capital and mentorship you need to take your business to the next level.</p>
               
                    <p class="text-gray-500">Please note that all application forms will be accompanied by a proposal and the following required documents
                     Name, Sex, Age, LGA, Tribe, Business location, How long has your business been existing, The expected amount of money required.
