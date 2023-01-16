@@ -9,8 +9,8 @@
   
         <Hero />
         
-        <Faqs />
-        <Cta />
+        
+        <Contact/>
   
       </main>
       
@@ -23,7 +23,7 @@
   <script>
 import Header from '../partials/Header.vue'
 import Hero from '../partials/Hero.vue'
-import Cta from '../partials/Cta.vue'
+import Contact from '../partials/Contact.vue'
 import Footer from '../partials/Footer.vue'
 
 export default {
@@ -31,7 +31,7 @@ export default {
 components: {
   Header,
   Hero,
-  Cta,
+  Contact,
   Footer
 }
 }
