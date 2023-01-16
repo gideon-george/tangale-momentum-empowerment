@@ -9,7 +9,7 @@
 
       <Hero />
       
-      <Faqs />
+      <About />
       <Cta />
 
     </main>
@@ -23,6 +23,7 @@
 <script>
 import Header from '../partials/Header.vue'
 import Hero from '../partials/Hero.vue'
+import About from '../partials/About.vue'
 import Cta from '../partials/Cta.vue'
 import Footer from '../partials/Footer.vue'
 
@@ -31,6 +32,7 @@ name: 'AboutUS',
 components: {
 Header,
 Hero,
+About,
 Cta,
 Footer
 }
