@@ -24,7 +24,7 @@
           <div class="flex-1 py-8">
 
             <div class="mb-10 text-center">
-              <h1 class="h2 font-cabinet-grotesk">Application & Submission of Proposal</h1>
+              <h1 class="h2 font-cabinet-grotesk">Apply & Submit Proposal</h1>
             </div>
 <h2 class="font-bold text-center">Begin Process in 3 easy steps below: </h2>
             <div class="text-xl mt-15 text-center font-cabinet-grotesk text-gray-900 mb-4">
@@ -66,7 +66,7 @@
       <!-- Illustration -->
       <img src="../images/explainer.jpg" alt="Explainer">
       <div class="text-center relative my-50" > <h2> Applications and Proposal Submission is From:</h2>
-     <p> 16th January, 2023 - 28th February, 2023</p></div>
+     <p> 20th January, 2023 - 28th February, 2023</p></div>
     
     </div>
 </div>

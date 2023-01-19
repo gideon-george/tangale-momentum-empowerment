@@ -5,7 +5,7 @@
 
         <div class="relative">
           <!-- Section header -->
-          <div class="max-w-3xl mx-auto text-center pb-12 md:pb-16">
+          <div class="max-w-3xl mx-auto bg-red-700 text-center pb-12 md:pb-16">
             <h2 class="h2 font-cabinet-grotesk text-gray-100">Tangale Momentum for Empowerment</h2>
           </div>
 

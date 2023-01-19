@@ -34,7 +34,7 @@
           <router-link class="text-blue-500 hover:text-blue-600 font-medium" to="/contact-us">CONTACT US</router-link>
         </li>
         <li class="mx-2">
-          <router-link class="text-white bg-blue-500 hover:bg-blue-600 font-medium p-2" to="/proposal-call">APPLY</router-link>
+          <router-link class="text-white bg-red-500 hover:bg-blue-600 font-medium p-2" to="/proposal-call">APPLY</router-link>
         </li>
       </ul>
     </div>
@@ -54,7 +54,7 @@
       <router-link class="btn-md inline-flex items-center text-gray-900 hover:text-blue-500 font-medium" to="/contact-us">CONTACT US</router-link>
     </li>
     <li class="mr-6 group-end">
-      <router-link class="btn-md inline-flex p-3 items-center text-white bg-gray-900 hover:bg-gray-800 group font-medium" to="/proposal-call">APPLY
+      <router-link class="btn-md inline-flex p-3 items-center text-white bg-red-700 hover:bg-gray-800 group font-medium" to="/proposal-call">APPLY
       </router-link>
     </li>
   </ul>

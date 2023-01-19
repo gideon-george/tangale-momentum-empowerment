@@ -15,7 +15,7 @@
         <div class="max-w-3xl mx-auto text-center">
           <h2 class="h2 font-cabinet-grotesk text-white mb-6" data-aos="fade-up">Unlock Your Business Potential, Apply Now for TME Entrepreneurship Program.</h2>
           <div data-aos="fade-up" data-aos-delay="100">
-            <router-link class="btn inline-flex items-center text-white bg-gray-900 hover:bg-gray-800 group" to="/proposal-call">
+            <router-link class="btn inline-flex items-center text-white bg-red-700 hover:bg-gray-800 group" to="/proposal-call">
               Online Application Form 
               <span class="tracking-normal text-blue-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-2">
                 <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="16" height="8">

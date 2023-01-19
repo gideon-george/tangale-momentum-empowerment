@@ -20,7 +20,7 @@
           <h1 class="h1 font-cabinet-grotesk text-white mb-2" data-aos="fade-up">Tangale Momentum for Empowerment.</h1>
           <p class="text-lg md:text-xl text-white text-opacity-80 mb-8" data-aos="fade-up" data-aos-delay="100">Empowering Tangale entrepreneurs to drive economic growth and development.</p>
           <div data-aos="fade-up" data-aos-delay="200">
-            <div class="btn inline-flex items-center text-white bg-gray-900 hover:bg-gray-800 group" to="/proposal-call">
+            <div class="btn inline-flex items-center text-white bg-red-500 hover:bg-gray-800 group" to="/proposal-call">
               KALKWI KA AMDO
               
             </div>
